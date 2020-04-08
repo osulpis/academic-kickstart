@@ -30,6 +30,9 @@ education:
   - course: PhD in Aquatic Geochemistry
     institution: McGill University
     year: 2019
+  - course: MSc in Climate Science, 1st year
+    institution: Aix-Marseille Université 
+    year: 2019
   - course: BSc in Earth and Environmental Science
     institution: ENS de Lyon, Université Claude Bernard
     year: 2014

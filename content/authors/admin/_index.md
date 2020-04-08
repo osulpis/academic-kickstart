@@ -33,7 +33,7 @@ education:
   - course: MSc in Climate Science, 1st year
     institution: Aix-Marseille University 
     year: 2019
-  - course: BSc in Earth and Environmental Science
+  - course: BSc in Earth and Environment Sciences
     institution: ENS de Lyon, University Claude Bernard
     year: 2014
 

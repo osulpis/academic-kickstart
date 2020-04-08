@@ -18,24 +18,21 @@ organizations:
   url: "https://www.uu.nl/en/research/department-of-earth-sciences"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Postdoctoral researcher in marine biogeochemistry.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ocean acidification
+- Life at the seafloor
+- Climate feedback loops
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Aquatic Geochemistry
+    institution: McGill University
+    year: 2019
+  - course: BSc in Earth and Environmental Science
+    institution: ENS de Lyon, Université Claude Bernard
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

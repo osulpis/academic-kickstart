@@ -1,13 +1,19 @@
 ---
-title: "An example journal article"
+title: "Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Carolina O. Dufour
+- David S. Trossman
+- Andrea J. Fassbender
+- Brian K. Arbic
+- John P. Dunne
+- Bernard P. Boudreau
+- Alfonso Mucci
+date: "2019-12-01T00:00:00Z"
+doi: "https://doi.org/10.1029/2019GB006230"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Global Biogeochemical Cycles, 33*(12)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Results from a range of Earth System and climate models of various resolution run under high-CO<sub>2</sub> emission scenarios challenge the paradigm that seafloor CaCO<sub>3</sub> dissolution will grow in extent and intensify as ocean acidification develops over the next century. Under the “business as usual,” RCP8.5 scenario, CaCO<sub>3</sub> dissolution increases in some areas of the deep ocean, such as the eastern central Pacific Ocean, but is projected to decrease in the Northern Pacific and abyssal Atlantic Ocean by the year 2100. The flux of CaCO<sub>3</sub> to the seafloor and bottom-current speeds, both of which are expected to decrease globally through the 21st century, govern changes in benthic CaCO<sub>3</sub> dissolution rates over 53% and 31% of the dissolving seafloor, respectively. Below the calcite compensation depth, a reduced CaCO<sub>3</sub> flux to the CaCO<sub>3</sub>-free seabed modulates the amount of CaCO<sub>3</sub> material dissolved at the sediment-water interface. Slower bottom-water circulation leads to thicker diffusive boundary layers above the sediment bed and a consequent stronger transport barrier to CaCO<sub>3</sub> dissolution. While all investigated models predict a weakening of bottom current speeds over most of the seafloor by the end of the 21st century, strong discrepancies exist in the magnitude of the predicted speeds. Overall, the poor performance of most models in reproducing modern bottom-water velocities and CaCO3 rain rates coupled with the existence of large disparities in predicted bottom-water chemistry across models hampers our ability to robustly estimate the magnitude and temporal evolution of anthropogenic CaCO<sub>3</sub> dissolution rates and the associated anthropogenic CO<sub>2</sub> neutralization.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Carbon dioxide (CO<sub>2</sub>), produced and released to the atmosphere by human activities, has been accumulating in the oceans for two centuries and will continue to do so well beyond the end of this century if emissions are not curbed. One direct consequence of CO<sub>2</sub> buildup in the ocean is the acidification of seawater. Calcite, a mineral secreted by many organisms living in the surface ocean to produce their shells and skeletons, covers a large part of the seafloor and acts as a natural antacid, neutralizing this excess CO<sub>2</sub>. Model projections for the 21st century, under a “business as usual” scenario, reveal that seawater will become more corrosive to this mineral, but calcite dissolution at the seafloor will only increase slightly due to reductions in bottom-current speeds and in the amount of calcite particles delivered to the seafloor over that period. These results indicate that the neutralization of human-made CO<sub>2</sub> by calcite dissolution at the seafloor may take longer than previously anticipated.
 
 tags:
 - Source Themes

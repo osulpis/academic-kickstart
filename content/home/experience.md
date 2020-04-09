@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral researcher"
+  company = "Utrecht University"
+  company_url = "https://www.uu.nl/en/research/department-of-earth-sciences"
+  location = "The Netherlands"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Preparation of in-situ microsensors for a research cruise
+  * Development of a porewater model 
+  * Global-scale analysis of seawater excess alkalinity
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Visiting student researcher"
+  company = "California Institute of Technology"
+  company_url = "http://www.lindecenter.caltech.edu/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2018-08-01"
+  date_end = "2019-06-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

@@ -32,7 +32,7 @@ summary: Model projections for the 21st century, under a business as usual scena
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

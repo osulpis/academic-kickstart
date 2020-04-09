@@ -32,8 +32,8 @@ education:
     year: 2019
   - course: MSc in Climate Science, 1st year
     institution: Aix-Marseille University 
-    year: 2019
-  - course: BSc in Earth and Environment Sciences
+    year: 2015
+  - course: BSc in Earth Sciences
     institution: ENS de Lyon, University Claude Bernard
     year: 2014
 
@@ -63,10 +63,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have a broad scientific interest centered around carbonated marine entities in a world shaped by Humans. I use numerical models, laboratory experiments and in-situ observations to understand how sediments and organisms at the seafloor, a mostly unmapped environment that covers more than two thirds of our planet surface, regulate the climate of our planet. My research also explores deep-sea currents, waves and tides, planktonic particles sinking through the ocean, and accurate predictions of seawater carbon species composition. Currently based in beautiful Utrecht, Netherlands, working in the Geochemistry research group of the Department of Earth Sciences at Utrecht University, I am also closely collaborating with researchers of the Royal Netherlands Institute for Sea Research. Welcome to my personal website, and do not hesitate to contact me.

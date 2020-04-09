@@ -1,5 +1,5 @@
 ---
-title: "Reduced CaCO3 Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO3 Dissolution Over the 21st Century"
+title: "Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century"
 authors:
 - admin
 - Carolina O. Dufour

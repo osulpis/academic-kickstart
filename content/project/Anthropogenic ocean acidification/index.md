@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Anthropogenic ocean acidification
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

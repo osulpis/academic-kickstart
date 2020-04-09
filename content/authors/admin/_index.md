@@ -67,7 +67,7 @@ user_groups:
 #- Visitors
 ---
 
-Hello! I am a postdoctoral researcher currently based in beautiful Utrecht, Netherlands, working in the Geochemistry research group of the _Department of Earth Sciences_ at _Utrecht University_, I am also closely collaborating with researchers of the _Royal Netherlands Institute for Sea Research_. I am funded by the _Netherlands Earth System Science Center_, a virtual research center that brings scientists with a background in physics, earth sciences, ecology and mathematics together, to better understand the processes behind climate change and to improve future climate projections and predictions. 
+Hello! I am a postdoctoral researcher currently based in beautiful Utrecht, Netherlands, working in the Geochemistry research group of the _Department of Earth Sciences_ at _Utrecht University_. I am funded by the _Netherlands Earth System Science Center_, a virtual research center that brings scientists with a background in physics, earth sciences, ecology and mathematics together, to better understand the processes behind climate change and to improve future climate projections and predictions. 
 
 I have a broad scientific interest centered around **carbonated marine entities in the Anthropocene's Oceans.** I use numerical models, laboratory experiments and in-situ observations to understand how sediments and organisms at the seafloor, a mostly unmapped environment that covers more than two thirds of our planet surface, regulate the climate of our planet. My research also explores deep-sea currents, waves and tides, planktonic particles sinking through the ocean, and accurate predictions of seawater carbon species composition. 
 

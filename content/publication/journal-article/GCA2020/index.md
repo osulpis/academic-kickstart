@@ -3,7 +3,7 @@ title: "Control of CaCO3 dissolution at the deep seafloor and its consequences"
 authors:
 - Bernard P. Boudreau
 - admin
-- ALfonso Mucci
+- Alfonso Mucci
 date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.gca.2019.09.037"
 
@@ -30,8 +30,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "OCB Science Highlights"
+   url: "https://www.us-ocb.org/what-really-controls-deep-seafloor-calcite-dissolution/"
 url_pdf: ''
 url_code: 'https://ars.els-cdn.com/content/image/1-s2.0-S0016703719306155-mmc2.pdf'
 url_dataset: ''
@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Bernard P. Boudreau**]'
   focal_point: ""
   preview_only: false
 

@@ -1,5 +1,5 @@
 ---
-title: Carbonate compensation dynamics
+title: Seawater carbonate system
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

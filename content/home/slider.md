@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome!"
-  content = "I am a postdoctoral researcher in Marine Biogeochemistry."
+  title = "The World’s Seafloor Is Rapidly Dissolving, Here’s Why"
+  content = "Climate change doesn’t just hit our atmosphere, it’s also making parts of our ocean floor disappear."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,10 +29,10 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_label = "See the video"
+  cta_url = "https://www.youtube.com/watch?v=c_svWhCBG_k"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Left"

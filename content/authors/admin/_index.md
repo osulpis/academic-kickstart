@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher in marine biogeochemistry
+role: Postdoctoral researcher in Marine Biogeochemistry
 
 # Organizations/Affiliations
 organizations:

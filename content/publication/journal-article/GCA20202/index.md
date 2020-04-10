@@ -1,11 +1,13 @@
 ---
 title: "Controlling the diffusive boundary layer thickness above the sediment water interface in a thermostated rotating disk reactor"
 authors:
-- Bernard P. Boudreau
 - admin
 - Alfonso Mucci
-date: "2020-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.gca.2019.09.037"
+- Bernard P. Boudreau
+- Mark A. Barry
+- Bruce D. Johnson
+date: "2020-04-01T00:00:00Z"
+doi: "https://doi.org/10.1002/lom3.10309"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-09T00:00:00Z"

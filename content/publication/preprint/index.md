@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: "Ocean Science"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Seawater absorption of anthropogenic atmospheric carbon dioxide (CO<sub>2</sub>) has led to a range of changes in carbonate chemistry, collectively referred to as ocean acidification. Stoichiometric dissociation constants used to convert measured carbonate system variables (pH, _p_CO2, dissolved inorganic carbon, total alkalinity) into globally comparable parameters are crucial for accurately quantifying these changes. The temperature and salinity coefficients of these constants have generally been experimentally derived under controlled laboratory conditions. Here, we use field measurements of carbonate system variables taken from the Global Ocean Data Analysis Project version 2 and the Surface Ocean CO2 Atlas databases to evaluate the temperature dependence of the carbonic acid stoichiometric dissociation constants. By applying a novel iterative procedure to a large dataset of 948 surface water, quality controlled samples where four carbonate system variables were independently measured, we show that the set of equations published by Lueker et al. (2000), currently preferred by the ocean acidification community, overestimates the stoichiometric dissociation constants at low temperatures, below 8&deg;C. We apply these newly derived temperature coefficients to high latitude Argo float and cruise data to quantify the effects on surface water _p_CO2 and calcite saturation states. These findings highlight the critical implications of uncertainty in stoichiometric dissociation constants for future projections of ocean acidification in polar regions, and the need to improve knowledge of what causes the CO<sub>2</sub> system inconsistencies in cold waters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Olivier Sulpis**]'
   focal_point: ""
   preview_only: false
 

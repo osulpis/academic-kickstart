@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: 'https://ars.els-cdn.com/content/image/1-s2.0-S0016703719306155-mmc2.pdf'
+url_pdf: 'https://www.researchgate.net/publication/330849085_Controlling_the_diffusive_boundary_layer_thickness_above_the_sediment-water_interface_in_a_thermostated_rotating-disk_reactor'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Bernard P. Boudreau**]'
+  caption: 'Image credit: [**Olivier Sulpis**]'
   focal_point: ""
   preview_only: false
 

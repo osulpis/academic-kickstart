@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "The World’s Seafloor Is Rapidly Dissolving, Here’s Why"
-  content = "Climate change doesn’t just hit our atmosphere, it’s also making parts of our ocean floor disappear."
+  title = "Pieces of the seafloor are dissolving, here is Why"
+  content = "Climate change does not just hit our atmosphere, it is also making parts of our ocean floor disappear."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

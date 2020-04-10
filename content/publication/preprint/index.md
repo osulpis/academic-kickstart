@@ -1,5 +1,5 @@
 ---
-title: "Current estimates of K<sub>1</sub>* and K2* appear inconsistent with measured CO2 system parameters in cold oceanic regions"
+title: "Current estimates of K1* and K2* appear inconsistent with measured CO2 system parameters in cold oceanic regions"
 authors:
 - admin
 - Mathilde Hagens
@@ -35,11 +35,11 @@ links:
 url_pdf: https://www.ocean-sci-discuss.net/os-2020-19/os-2020-19.pdf
 url_code: https://zenodo.org/record/3725889
 url_dataset: https://zenodo.org/record/3725889
-url_poster: '#'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

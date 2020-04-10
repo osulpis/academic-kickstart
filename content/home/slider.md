@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Pieces of the seafloor are dissolving, here is Why"
+  title = "Pieces of the seafloor are dissolving, here is why"
   content = "Climate change does not just hit our atmosphere, it is also making parts of our ocean floor disappear."
   align = "center"  # Choose `center`, `left`, or `right`.
 

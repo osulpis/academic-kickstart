@@ -7,7 +7,7 @@ authors:
 - Mark A. Barry
 - Bruce D. Johnson
 date: "2020-04-01T00:00:00Z"
-doi: "https://doi.org/10.1002/lom3.10309"
+doi: "10.1002/lom3.10309"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-08T00:00:00Z"

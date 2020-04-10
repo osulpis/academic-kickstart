@@ -6,7 +6,7 @@ authors:
 - Alfonso Mucci
 - Bernard P. Boudreau
 date: "2017-10-20T00:00:00Z"
-doi: "https://doi.org/10.1016/j.marchem.2017.06.005"
+doi: "10.1016/j.marchem.2017.06.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-07T00:00:00Z"

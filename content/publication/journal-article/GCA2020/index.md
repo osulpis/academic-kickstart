@@ -5,7 +5,7 @@ authors:
 - admin
 - Alfonso Mucci
 date: "2020-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.gca.2019.09.037"
+doi: "10.1016/j.gca.2019.09.037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-09T00:00:00Z"

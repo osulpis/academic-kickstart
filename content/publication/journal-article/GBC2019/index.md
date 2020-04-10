@@ -10,7 +10,7 @@ authors:
 - Bernard P. Boudreau
 - Alfonso Mucci
 date: "2019-12-01T00:00:00Z"
-doi: "https://doi.org/10.1029/2019GB006230"
+doi: "10.1029/2019GB006230"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-09T00:00:00Z"
@@ -32,7 +32,7 @@ summary: Model projections for the 21st century, under a business as usual scena
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

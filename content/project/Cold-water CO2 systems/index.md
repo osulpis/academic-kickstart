@@ -1,6 +1,6 @@
 ---
 title: Cold-water CO2 systems
-summary: Seawater samples from polar regions are challenging to gather. In turn, this lack of data makes CO<sub>2</sub>-system predictions in cold, polar waters uncertain.
+summary: Seawater samples from polar regions are challenging to gather. In turn, this lack of data makes CO<sub>2</sub>-system predictions in cold, polar waters poorly constrained and uncertain.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

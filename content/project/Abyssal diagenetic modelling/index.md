@@ -1,6 +1,6 @@
 ---
 title: Abyssal diagenetic modelling
-summary: Insights into the very early diagenesis of deep-sea sediments, where bottom-water currents, chemistry, and solid fluxes control the fate of accumulated particles.
+summary: Interdisciplinary insights into the very early diagenesis of deep-sea sediments, where bottom-water currents, chemistry, and solid fluxes interact. 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

@@ -9,7 +9,7 @@ authors:
 - Brian K. Arbic
 - Robert M. Key
 date: "2018-10-29T00:00:00Z"
-doi: "https://doi.org/10.1073/pnas.1804250115"
+doi: "10.1073/pnas.1804250115"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-06T00:00:00Z"

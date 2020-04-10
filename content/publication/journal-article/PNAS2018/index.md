@@ -1,16 +1,18 @@
 ---
-title: "Controlling the diffusive boundary layer thickness above the sediment water interface in a thermostated rotating disk reactor"
+title: "Current CaCO3 dissolution at the seafloor caused by anthropogenic CO2"
 authors:
 - admin
-- Alfonso Mucci
 - Bernard P. Boudreau
-- Mark A. Barry
-- Bruce D. Johnson
-date: "2020-04-01T00:00:00Z"
-doi: "https://doi.org/10.1002/lom3.10309"
+- Alfonso Mucci
+- Chris Jenkins
+- David S. Trossman
+- Brian K. Arbic
+- Robert M. Key
+date: "2018-10-29T00:00:00Z"
+doi: "https://doi.org/10.1073/pnas.1804250115"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-08T00:00:00Z"
+publishDate: "2020-04-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,29 +21,29 @@ publishDate: "2020-04-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Limnology and Oceanography Methods, 17*(4), 241-253"
+publication: "*Proceedings of the National Academy of Sciences of the United States of America, 115*(46), 11700-11705"
 publication_short: ""
 
-abstract: The diffusive boundary layer (DBL) is a thin layer of fluid at the interface with a solid surface in which frictional forces cause molecular diffusion to become the dominant mode of solute transport. The thickness of the DBL is a function of the nature and roughness of sediment substrates, as well as the bottom current speed. In low energy natural aquatic environments, such as abyssal plains or lakes, the thickness of the DBL can reach several millimeters and significantly impede the diffusive rate of solutes through the sediment water interface (SWI). Thus, precisely reproducing the DBL in the laboratory is required to simulate benthic diffusive fluxes similar to those encountered in situ. Yet, an experimental apparatus allowing precise control of the DBL thickness at the SWI in the laboratory has not been described in the literature. Here, we present a simple temperature controlled rotating disk system, which is suitable for the use with natural sediments and that is capable of generating thick DBLs. Water overlying the rotating sediment can be sampled discretely or continuously to monitor the chemical reaction progress. We tested the validity of the reactor by dissolving a foraminiferal sand bed in natural seawater. We find that (1) measured dissolution fluxes agree with those predicted by theory and (2) the dissolution of calcite in these seafloor like hydrodynamic conditions is controlled by mass transfer across the DBL above the bed. Guidelines for best practices under various experimental conditions, possible future developments, and the theoretical equations to compute the DBL thickness and diffusive fluxes in this reactor are described.
+abstract: Oceanic uptake of anthropogenic CO<sub>2</sub> leads to decreased pH, carbonate ion concentration, and saturation state with respect to CaCO<sub>3</sub> minerals, causing increased dissolution of these minerals at the deep seafloor. This additional dissolution will figure prominently in the neutralization of man-made CO<sub>2</sub>. However, there has been no concerted assessment of the current extent of anthropogenic CaCO<sub>3</sub> dissolution at the deep seafloor. Here, recent databases of bottom-water chemistry, benthic currents, and CaCO<sub>3</sub> content of deep-sea sediments are combined with a rate model to derive the global distribution of benthic calcite dissolution rates and obtain primary confirmation of an anthropogenic component. By comparing preindustrial with present-day rates, we determine that significant anthropogenic dissolution now occurs in the western North Atlantic, amounting to 40–100% of the total seafloor dissolution at its most intense locations. At these locations, the calcite compensation depth has risen ~300 m. Increased benthic dissolution was also revealed at various hot spots in the southern extent of the Atlantic, Indian, and Pacific Oceans. Our findings place constraints on future predictions of ocean acidification, are consequential to the fate of benthic calcifiers, and indicate that a by-product of human activities is currently altering the geological record of the deep sea.
 
 # Summary. An optional shortened abstract.
-summary: We present a novel experimental apparatus that can be use to reproduce deep sea, benthic environmental conditions in the laboratory. 
+summary: The geological record contains numerous examples of greenhouse periods and ocean acidification episodes, where the spreading of corrosive (CO<sub>2</sub> enriched) bottom waters enhances the dissolution of CaCO<sub>3</sub> minerals delivered to the seafloor or contained within deep sea sediments. The dissolution of sedimentary CaCO<sub>3</sub> neutralizes excess CO<sub>2</sub>, thus preventing runaway acidification, and acts as a negative feedback mechanism in regulating atmospheric CO<sub>2</sub> levels over timescales of centuries to millennia. We report here the first signs of CaCO<sub>3</sub> dissolution at the seafloor caused by man made CO<sub>2</sub>. This dissolution is already occurring at various locations in the deep ocean, particularly in the northern Atlantic and near the Southern Ocean, where the bottom waters are young and rich in anthropogenic CO2.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.researchgate.net/publication/330849085_Controlling_the_diffusive_boundary_layer_thickness_above_the_sediment-water_interface_in_a_thermostated_rotating-disk_reactor'
+url_pdf: 'https://www.pnas.org/content/pnas/115/46/11700.full.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://www.nodc.noaa.gov/ocads/oceans/ndp_099/ndp099.html'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=c_svWhCBG_k'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

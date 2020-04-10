@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Peer-reviewed articles and preprints are available here."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

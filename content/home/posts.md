@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+title = "Media and outreach"
+subtitle = "An inventory of media articles, videos, podcasts and public talks about my research."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

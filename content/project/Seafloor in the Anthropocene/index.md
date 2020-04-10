@@ -1,6 +1,6 @@
 ---
-title: Seafloor of the Anthropocene
-summary: An example of using the in-built project page.
+title: Seafloor in the Anthropocene
+summary: Human-made CO2 already invades the deep-ocean, spreading above the ocean floor and causing more calcite particles at the seafloor to dissolve. As climate change simultaneously alters seawater temperature, chemical composition, sea currents and the delivery of solid particles sinking from the surface, what might the seafloor of tomorrow look like?
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

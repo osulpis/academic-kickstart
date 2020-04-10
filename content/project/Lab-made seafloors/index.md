@@ -1,6 +1,6 @@
 ---
-title: Seafloor of the Anthropocene
-summary: An example of using the in-built project page.
+title: Lab-made seafloors
+summary: Experimental apparati reproducing seafloor-like hydrodynamics, to study early diagenesis in all kind of benthic environments, directly from the lab.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

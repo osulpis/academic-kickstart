@@ -1,11 +1,6 @@
 ---
-title: "Controlling the diffusive boundary layer thickness above the sediment–water interface in a thermostated rotating-disk reactor"
+title: ""
 authors:
-- admin
-- Alfonso Mucci
-- Bernard P. Boudreau
-- Mark A. Barry
-- Bruce D. Johnson
 date: "2019-04-01T00:00:00Z"
 doi: "https://doi.org/10.1002/lom3.10309"
 
@@ -34,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.researchgate.net/publication/330849085_Controlling_the_diffusive_boundary_layer_thickness_above_the_sediment-water_interface_in_a_thermostated_rotating-disk_reactor'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

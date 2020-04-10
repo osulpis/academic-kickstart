@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "Ocean Science"
 publication_short: ""
 
-abstract: Seawater absorption of anthropogenic atmospheric carbon dioxide (CO<sub>2</sub>) has led to a range of changes in carbonate chemistry, collectively referred to as ocean acidification. Stoichiometric dissociation constants used to convert measured carbonate system variables (pH, _p_CO2, dissolved inorganic carbon, total alkalinity) into globally comparable parameters are crucial for accurately quantifying these changes. The temperature and salinity coefficients of these constants have generally been experimentally derived under controlled laboratory conditions. Here, we use field measurements of carbonate system variables taken from the Global Ocean Data Analysis Project version 2 and the Surface Ocean CO2 Atlas databases to evaluate the temperature dependence of the carbonic acid stoichiometric dissociation constants. By applying a novel iterative procedure to a large dataset of 948 surface water, quality controlled samples where four carbonate system variables were independently measured, we show that the set of equations published by Lueker et al. (2000), currently preferred by the ocean acidification community, overestimates the stoichiometric dissociation constants at low temperatures, below 8&deg;C. We apply these newly derived temperature coefficients to high latitude Argo float and cruise data to quantify the effects on surface water _p_CO2 and calcite saturation states. These findings highlight the critical implications of uncertainty in stoichiometric dissociation constants for future projections of ocean acidification in polar regions, and the need to improve knowledge of what causes the CO<sub>2</sub> system inconsistencies in cold waters.
+abstract: Seawater absorption of anthropogenic atmospheric carbon dioxide (CO<sub>2</sub>) has led to a range of changes in carbonate chemistry, collectively referred to as ocean acidification. Stoichiometric dissociation constants used to convert measured carbonate system variables (pH, *p*CO<sub>2</sub>, dissolved inorganic carbon, total alkalinity) into globally comparable parameters are crucial for accurately quantifying these changes. The temperature and salinity coefficients of these constants have generally been experimentally derived under controlled laboratory conditions. Here, we use field measurements of carbonate system variables taken from the Global Ocean Data Analysis Project version 2 and the Surface Ocean CO2 Atlas databases to evaluate the temperature dependence of the carbonic acid stoichiometric dissociation constants. By applying a novel iterative procedure to a large dataset of 948 surface water, quality controlled samples where four carbonate system variables were independently measured, we show that the set of equations published by Lueker et al. (2000), currently preferred by the ocean acidification community, overestimates the stoichiometric dissociation constants at low temperatures, below 8&deg;C. We apply these newly derived temperature coefficients to high latitude Argo float and cruise data to quantify the effects on surface water _p_CO2 and calcite saturation states. These findings highlight the critical implications of uncertainty in stoichiometric dissociation constants for future projections of ocean acidification in polar regions, and the need to improve knowledge of what causes the CO<sub>2</sub> system inconsistencies in cold waters.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: 
+#  url: 
 url_pdf: https://www.ocean-sci-discuss.net/os-2020-19/os-2020-19.pdf
 url_code: https://zenodo.org/record/3725889
 url_dataset: https://zenodo.org/record/3725889
@@ -61,5 +61,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

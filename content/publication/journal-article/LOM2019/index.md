@@ -6,7 +6,7 @@ authors:
 - Bernard P. Boudreau
 - Mark A. Barry
 - Bruce D. Johnson
-date: "2020-04-01T00:00:00Z"
+date: "2019-04-01T00:00:00Z"
 doi: "https://doi.org/10.1002/lom3.10309"
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2020-04-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Limnology and Oceanography Methods, 17*(4), 241-253"
+publication: ""
 publication_short: ""
 
 abstract: 

@@ -1,6 +1,6 @@
 ---
 title: Carbonate minerals solubility stairways
-summary: Calcite, aragonite, vaterite (CaCO<sub>3</sub>) and Mg-calcites (Ca<sub>X</sub>MgCO<sub>Y</sub>CO<sub>3</sub>) are common carbonate minerals in the marine environment, forming the shells and skeletons of many organisms. Yet, their thermodynamics, dissolution and precipitation kinetics are far from understood. This project aims to documenting their interactions and dynamic equilibria, through laboratory experiments and nanoscale simulations. 
+summary: Diving into the interactions and dynamic equilibria of calcite, aragonite, vaterite (CaCO<sub>3</sub>) and Mg-calcites (Ca<sub>X</sub>Mg<sub>Y</sub>CO<sub>3</sub>), through laboratory experiments and nanoscale simulations.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

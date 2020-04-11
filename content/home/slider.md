@@ -35,6 +35,21 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
+  title = "We're going at sea!"
+  content = "Sampling deep-sea sediments and exploring microbial fauna in an upcoming cruise. 
+Project The project received funding from an NWO-XS Grant."
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = 'sally ride.jpg'  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Read about the project"
+  cta_url = "https://www.youtube.com/watch?v=c_svWhCBG_k"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
+
+[[item]]
   title = "Left"
   content = "I am left aligned :smile:"
   align = "left"

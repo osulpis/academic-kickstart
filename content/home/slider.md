@@ -45,7 +45,7 @@ height = ""
 
   cta_label = "Read about the project"
   cta_url = "https://osulpis.xyz/project/deep-sea-sediment-microbial-fauna/"
-  cta_icon_pack = "far"
+  cta_icon_pack = "fas"
   cta_icon = "ship"
 
 [[item]]

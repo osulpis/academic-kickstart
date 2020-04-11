@@ -1,6 +1,6 @@
 ---
 title: Deep-sea sediment microbial fauna
-summary: As climate change simultaneously alters seawater temperature, chemical composition, sea currents and the delivery of solid particles sinking from the surface, what might the seafloor of tomorrow look like?
+summary: The seafloor is home to a myriad of unknown microbes, who decompose organic matter and drive calcium carbonates dissolution, thus influencing atmospheric CO<sub>2</sub> levels. We will explore these microbial fauna, and characterize the nature and reactivity of organic matter, by deploying microsensors at the bottom of the ocean in an upcoming cruise.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: R/V Sally Ride [Scripps Institute of Oceanography]
   focal_point: Smart
 
 links:
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

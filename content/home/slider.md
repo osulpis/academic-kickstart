@@ -44,9 +44,9 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Read about the project"
-  cta_url = "https://www.youtube.com/watch?v=c_svWhCBG_k"
-  cta_icon_pack = "fab"
-  cta_icon = "youtube"
+  cta_url = "https://osulpis.xyz/project/deep-sea-sediment-microbial-fauna/"
+  cta_icon_pack = "far"
+  cta_icon = "ship"
 
 [[item]]
   title = "Left"

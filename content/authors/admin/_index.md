@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: o.j.t.sulpis@uu.nl
+  link: "o.j.t.sulpis@uu.nl"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JPfVNNcAAAAJ&hl=en

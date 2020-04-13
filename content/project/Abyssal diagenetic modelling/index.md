@@ -2,7 +2,18 @@
 title: Abyssal diagenetic modelling
 summary: Interdisciplinary insights into the very early diagenesis of deep-sea sediments, where bottom-water currents, chemistry, and solid fluxes interact. 
 tags:
-- Deep Learning
+- Model
+- Diagenesis
+- CaCO3
+- Julia
+- Matlab
+- Oxygen
+- Carbon
+- Bioturbation
+- Diffusive boundary layer
+- Sediments
+- Tides
+- Seasons
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,4 +37,4 @@ url_video: ""
 slides: ""
 ---
 
-Under conmstruction
+Under construction

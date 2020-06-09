@@ -34,6 +34,8 @@ url_video: ""
 slides: ""
 ---
 
+## Status: [**funded, in prep.**]
+
 ## **Why**?
 
 The seafloor, which covers ~70% of the surface of the planet and moderates the transfer of materials and energy from the biosphere to the geosphere, remains for the vast majority unexplored and unmapped. Today, this rich, unknown ecosystem is locally threatened by deep-sea mining activities, e.g. by ploughing of the top layers of the seabed, which contains abundant valuable minerals and metals essential to the energy transition [1]. The deep ocean is also perturbed globally by climate change, including seawater acidification caused by the addition of ~ 10 billion tons of human-made carbon dioxide (CO<sub>2</sub>) per year into the oceans.

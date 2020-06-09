@@ -62,6 +62,27 @@ This research, published in **PNAS**, has received broad media coverage with mor
 
 Carbon dioxide (CO<sub>2</sub>), produced and released to the atmosphere by human activities, has been accumulating in the oceans for two centuries and will continue to do so well beyond the end of this century if emissions are not curbed. Model projections for the 21st century, under a business as usual scenario, reveal that seawater will become more corrosive to this mineral, but calcite dissolution at the seafloor will only increase slightly due to reductions in bottom-current speeds and in the amount of calcite particles delivered to the seafloor over that period. These results indicate that the neutralization of human-made CO<sub>2</sub> by calcite dissolution at the seafloor may take longer than previously anticipated.
 
+This research was published in [Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006230). Here are the **main take-home messages**:
+
+- Models underestimate bottom current speeds relative to observations. The discrepancy declines as model horizontal resolution increases; however, **all tested models indicate slower bottom-water circulation by the end of the century**.
+
+- There are large discrepancies between tested models in the CaCO<sub>3</sub> sinking flux magnitude for particles that reach the sea floor. **All tested models project declines in the CaCO<sub>3</sub> sinking flux** through the end of the century.
+
+- Reduced CaCO<sub>3</sub> particle fluxes and increased CaCO<sub>3</sub> dissolution rates cause the **CCD to rise** by **800 m by the end of the century**. This causes **~20% of the seafloor to switch from net CaCO<sub>3</sub> accumulation to net CaCO<sub>3</sub> dissolution**.
+
+- Future research efforts should focus on developing sediment modules inclusive of bioturbation, organic matter degradation, and mass transfer through a diffusive boundary layer of variable thickness to improve estimates of seafloor CaCO<sub>3</sub> dissolution.
+
 ## **What's next?**
 
-The good news is that there are far more calcium carbonate at the seafloor than there are carbon dioxide under the form of fossil fuel that we can possibly burn. 
+The good news is that there are far more calcium carbonate at the seafloor than there are carbon dioxide under the form of fossil fuel that we can possibly burn. The bad news is that there is there is not a single place on Earth that cannot feel human activity.
+
+Here are the research questions I am hoping to see an answer to:
+- What is the impact of more organic matter to the seafloor on calcium carbonate in surface sediments?
+- To what extent the alkalinity signal from seafloor dissolution can be felt in the water column?
+- How will burrowing organisms evolve in the future and how will this affect early diagenesis?
+
+[Get in touch](https://osulpis.xyz/#contact) if you are interested in it too. 
+
+
+
+

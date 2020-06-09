@@ -39,5 +39,5 @@ slides: ""
 
 **Publications**
 - [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
-- [x] Global Biogeochemical Cycles: 
-- [ ] ???
+- [x] Global Biogeochemical Cycles: [Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century](https://osulpis.xyz/publication/journal-article/gbc2019/)
+- [ ] Something, somewhere.

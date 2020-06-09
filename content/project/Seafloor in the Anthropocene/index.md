@@ -40,7 +40,6 @@ slides: ""
 **Publications**
 - [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
 - [x] Global Biogeochemical Cycles: [Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century](https://osulpis.xyz/publication/journal-article/gbc2019/)
-- [ ] Something, somewhere.
 
 ## **Carbonating the ocean**
 
@@ -51,7 +50,7 @@ Carbon dioxide (CO<sub>2</sub>) in the atmosphere is absorbed by our oceans, and
 The geological record contains numerous examples of greenhouse periods and ocean acidification episodes, where the spreading of corrosive (CO<sub>2</sub>-enriched) bottom waters enhances the dissolution of CaCO<sub>3</sub> minerals delivered to the seafloor or contained within deep-sea sediments. The dissolution of sedimentary CaCO<sub>3</sub> neutralizes excess CO<sub>2</sub>, thus preventing runaway acidification, and acts as a negative-feedback mechanism in regulating atmospheric CO<sub>2</sub> levels over timescales of centuries to millennia. We report an observation-based indication and quantification of significant CaCO<sub>3</sub> dissolution at the seafloor caused by man-made CO<sub>2</sub>. This dissolution is already occurring at various locations in the deep ocean, particularly in the northern Atlantic and near the Southern Ocean, where the bottom waters are young and rich in anthropogenic CO<sub>2</sub>.
 
 ![png](./pnas_fig3.png)
-{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (?r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
 
 This research, published in **PNAS**, has received broad media coverage with more than 170 press articles from 38 countries. Read a selection of articles on the topic:
 - [Vice](https://www.vice.com/en_us/article/d3qaek/the-seafloor-is-dissolving-because-climate-change)
@@ -66,8 +65,7 @@ This research, published in **PNAS**, has received broad media coverage with mor
 Carbon dioxide (CO<sub>2</sub>), produced and released to the atmosphere by human activities, has been accumulating in the oceans for two centuries and will continue to do so well beyond the end of this century if emissions are not curbed. Model projections for the 21st century, under a business as usual scenario, reveal that seawater will become more corrosive to this mineral, but calcite dissolution at the seafloor will only increase slightly due to reductions in bottom-current speeds and in the amount of calcite particles delivered to the seafloor over that period. These results indicate that the neutralization of human-made CO<sub>2</sub> by calcite dissolution at the seafloor may take longer than previously anticipated.
 
 ![png](./gbc_fig1.png)
-{{< figure src="" title="Changes (?) in bottom-water (a) temperature (?T), (b) practical salinity (?SP), (c) dissolved inorganic carbon concentration (?DIC), (d) total alkalinity (?TA), (e) soluble reactive phosphate concentration (?[SRP]), (f) dissolved inorganic silica concentration (?[dSi]), (g) bottom-current speed (?U), and (h) calcite flux to the seafloor (?F) between the first 30 years (2006–2035) and the last 30 years (2071–2100) of the CMIP5 model mean, under the RCP8.5 scenario." >}}
-
+{{< figure src="" title="Changes in bottom-water (a) temperature (T), (b) practical salinity (Sp), (c) dissolved inorganic carbon concentration (DIC), (d) total alkalinity (TA), (e) soluble reactive phosphate concentration ([SRP]), (f) dissolved inorganic silica concentration ([Si]), (g) bottom-current speed (U), and (h) calcite flux to the seafloor (F) between the first 30 years (2006 2035) and the last 30 years (2071 2100) of the CMIP5 model mean, under the RCP8.5 scenario. **source: [Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006230)**" >}}
 
 This research was published in [Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006230). Here are the **main take-home messages**:
 

@@ -34,7 +34,7 @@ url_video: ""
 slides: ""
 ---
 
-## Why?
+## **Why?**
 
 The seafloor, which covers ~70% of the surface of the planet and moderates the transfer of materials and energy from the biosphere to the geosphere, remains for the vast majority unexplored and unmapped. Today, this rich, unknown ecosystem is locally threatened by deep-sea mining activities, e.g. by ploughing of the top layers of the seabed, which contains abundant valuable minerals and metals essential to the energy transition [1]. The deep ocean is also perturbed globally by climate change, including seawater acidification caused by the addition of ~ 10 billion tons of human-made carbon dioxide (CO<sub>2</sub>) per year into the oceans.
 
@@ -44,7 +44,7 @@ Yet, the key processes that govern CaCO<sub>3</sub> dissolution at the surface o
 
 ## What?
 
-Two main research questions pop up: 1) What is the relative importance of physical, chemical and biological processes in sediment carbonate dissolution? 2) Can in situ microscale observations of pH and oxygen quantify respiration-driven calcite dissolution ?
+Two main research questions pop up: **1)** What is the relative importance of physical, chemical and biological processes in sediment carbonate dissolution? **2)** Can in situ microscale observations of pH and oxygen quantify respiration-driven calcite dissolution ?
 
 Microbial respiration consumes dissolved oxygen and releases CO<sub>2</sub>, the latter inducing a seawater pH decrease. However, dissolution of CaCO<sub>3</sub> grains in marine sediments releases carbonate ions (CO<sub>3</sub><sup>2-</sup>), which increases seawater pH. Thus, by measuring pH in sediment porewaters, the impact of microbial respiration and CaCO3 dissolution can be studied (Figure 1). By microprofiling dissolved oxygen at the same time , one can quantify microbial respiration and in this way attribute pH changes to calcite dissolution with or without respiration. Microelectrodes, which are sensors able to measure concentrations of dissolved species at a micrometer resolution, are best suited for these purposes. In shallow environments, such as lakes and the continental shelf, one can collect sediment samples and perform microelectrode measurements on board. At the deep seafloor, several kilometres of overlaying seawater generates a very high hydrostatic pressure, and microelectrodes measurements need to be carried out in situ, by inserting them in the top centimetres of the seabed, as bringing samples back on the ship would cause depressurization and warming, triggering chemical reactions, and sacrificing biological activity. Performing in situ measurements several kilometres below the sea surface poses significant analytical and logistic challenges, which is why in situ observations are so scarce.
 

@@ -38,6 +38,6 @@ slides: ""
 ## Status: [**in progress**]
 
 **Publications**
-- [x] PNAS: Write math example
-- [x] Write diagram example
-- [ ] Do something else
+- [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
+- [x] Global Biogeochemical Cycles: 
+- [ ] ???

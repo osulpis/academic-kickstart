@@ -60,7 +60,7 @@ This research, published in **PNAS**, has received broad media coverage with mor
 
 ## **Forecast for the 21st century**: warm, sluggish and muddy
 
-Describe GBC paper testitounet
+Carbon dioxide (CO<sub>2</sub>), produced and released to the atmosphere by human activities, has been accumulating in the oceans for two centuries and will continue to do so well beyond the end of this century if emissions are not curbed. Model projections for the 21st century, under a business as usual scenario, reveal that seawater will become more corrosive to this mineral, but calcite dissolution at the seafloor will only increase slightly due to reductions in bottom-current speeds and in the amount of calcite particles delivered to the seafloor over that period. These results indicate that the neutralization of human-made CO<sub>2</sub> by calcite dissolution at the seafloor may take longer than previously anticipated.
 
 ## **What's next?**
 

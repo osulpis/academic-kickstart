@@ -18,7 +18,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Human-made changes in the calcite saturation state of bottom waters [Olivier Sulpis]
   focal_point: Smart
 
 links:

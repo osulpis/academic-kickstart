@@ -52,6 +52,10 @@ Microbial respiration consumes dissolved oxygen and releases CO<sub>2</sub>, the
 
 Obtaining direct measurements of oxygen and pH in CaCO<sub>3</sub>-rich sediments, under a range of seafloor depths and labile carbon inputs, would be unprecedented, and this is the research that we propose here. The overarching hypothesis to be tested is the following: Respiration driven dissolution of CaCO<sub>3</sub> minerals in the top centimeters of sediments is correlated to the flux of organic matter reaching the seafloor. This hypothesis will be tested by:
 
+
+![png](./cruise_drawing.png)
+
+
 **1)** using **microelectrodes** to measure in situ pH and oxygen concentrations in the top centimeters of the seabed, with a high vertical resolution, at several deep-sea sites, and
 
 **2)** recovering **sediment cores** to measure the amount of organic matter, CaCO<sub>3</sub>, and phytopigments (indicators of the freshness of the settling organic matter), and to characterize the microbial community.

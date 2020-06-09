@@ -35,4 +35,9 @@ url_video: ""
 slides: ""
 ---
 
-Under construction
+## Status: [**in progress**]
+
+**Publications**
+- [x] PNAS: Write math example
+- [x] Write diagram example
+- [ ] Do something else

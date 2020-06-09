@@ -62,3 +62,6 @@ The proposed research will be performed on a NSF-funded research cruise in the P
 Microelectrodes will be sent to the seafloor via a lander sinking through the water column. After the automated measurements, the lander will float back to the surface and be recovered by the ship, communicating its location by satellite. Sediment cores will be collected, sliced into thin vertical sections, and stored for further analyses. Inorganic and organic carbon contents will be measured by an elemental analyser (before and after acidification), phytopigments will be quantified by fluorometry/HPLC and microbial communities will be characterized using DNA and lipids analysis.
 
 This project is funded by **NWO** through a XS grant to O.S. Thanks NWO!
+
+## References
+**[1]** Thompson et al. (2018) Front. Mar. Sci. 5 **[2]** Lauvset et al. (2015) Biogeosciences 12 (5) **[3]** Archer (2005) J. Geophys Res. 110 (C9) **[4]** Peterson (1966) Science 154 (3756) **[5]** Dunne et al. (2012) Global Biogeochem. Cy. 26 (3) **[6]** Dutkiewicz et al. (2020) Geology, doi:10.1130/G46836.1

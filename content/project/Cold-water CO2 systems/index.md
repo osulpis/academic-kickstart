@@ -41,7 +41,9 @@ slides: ""
 
 Under construction
 
-## North-West Passage
+## **North-West Passage**
+
+Here are a couple of pictures and stories about my trips in the Canadian Arctic between 2016 and 2019, where I was measuring seawater pH, total alkalinity and surface pCO<sub>2</sub> as a part of the [Arcticnet](https://arcticnet.ulaval.ca/) programm.
 
 ![png](./leg3_2016.png)
 {{< figure src="" title="Mission plan for the leg3b of the Arcticnet 2016 expedition, on the CCGS Amundsen." >}}

@@ -53,15 +53,16 @@ The geological record contains numerous examples of greenhouse periods and ocean
 {{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
 
 This research, published in **PNAS**, has received broad media coverage with more than 170 press articles from 38 countries. Read a selection of articles on the topic:
-- [Vice](https://www.vice.com/en_us/article/d3qaek/the-seafloor-is-dissolving-because-climate-change)
 - [Smithsonian Mag](https://www.smithsonianmag.com/smart-news/parts-ocean-floor-are-disintegrating-180970706/)
 - [NBC News](https://www.nbcnews.com/mach/science/climate-change-may-be-dissolving-ocean-floor-here-s-why-ncna935261)
 - [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-6334309/The-ocean-floor-DISSOLVING-rapidly-study-warns-human-activity-blame.html)
 - [Gizmodo-Earther](https://earther.gizmodo.com/human-carbon-emissions-are-dissolving-the-ocean-floor-1830178302)
 - [I.F.L. Science](https://www.iflscience.com/environment/our-oceans-are-becoming-so-acidic-it-could-dissolve-the-seabed/)
 
+- [Vice](https://www.vice.com/en_us/article/d3qaek/the-seafloor-is-dissolving-because-climate-change)
 {{< tweet 1058029563740078080>}}
 
+- Seeker:
 {{< youtube c_svWhCBG_k>}}
 
 ## **Forecast for the 21st century**: warm, sluggish and muddy

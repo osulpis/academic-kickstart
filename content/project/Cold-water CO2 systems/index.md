@@ -60,9 +60,9 @@ Here are a couple of pictures about expeditions I have been involved in, in the 
 In the winter, when seawater is brought back on the deck and in contact with cold air at - 20 or - 30 degrees Celcius, it is only a matter of seconds before it starts freezing. One must act fast!
 
 ![png](./mashup.png)
-{{< figure src="" title="[**top left**] The rosette is back on board with precious seawater samples. [**top right**] Me before the helicopter took off. [**bottom left**] Schools-on-board hard at work!. [**bottom right**] Arctic unlonely shrimp party. Females have a tiny black spot just below the tail. They have no heart but have a brain. Males are just transparent and unimportant. Sums it up pretty well." >}}
+{{< figure src="" title="[**top left**] The rosette is back on board with precious seawater samples. [**top right**] Me before the helicopter took off. [**bottom left**] Schools-on-board hard at work!. [**bottom right**] Arctic shrimp party. Females have a tiny black spot just below the tail. They have no heart but have a brain. Males are just transparent and unimportant. Sums it up pretty well." >}}
 
-pH measurements are usually performed on board, at a temperature of 25 degrees Celcius. One one hand, one would want to measure seawater pH fast after sampling, to avoid CO<sub>2</sub> exchanges with the air. On the other hand, it may take several long minutes before a seawater sample warms up and reaches a stable temperature. This, combined with the challenge of sampling seawater in sea ice covered regions, makes pH measurements from cold water regions challenging to obtain. 
+pH measurements are usually performed on board, at a temperature of 25 degrees Celcius. On one hand, one would want to measure seawater pH fast after sampling, to avoid CO<sub>2</sub> exchanges with the air. On the other hand, it may take several long minutes before a seawater sample warms up and reaches a stable temperature. This, combined with the challenge of sampling seawater in sea ice covered regions, makes pH measurements from cold water regions challenging to obtain. 
 
 ![jpeg](./setup.jpeg)
 {{< figure src="" title="Experimental setup. Spectrophotometer for pH is in the back, titrator for total alkalinity measurement is in the front." >}}

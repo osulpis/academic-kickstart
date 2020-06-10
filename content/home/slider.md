@@ -48,4 +48,19 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "ship"
 
+[[item]]
+  title = "L’oeuf ou la poule: Océans acides ?"
+  content = "I was invited to this podcast to talk (in French) about ocean acidification and ways to reduce it, with a pinch of optimism!"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = 'oeufpoule.jpg'  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Écoute le podcast"
+  cta_url = "https://www.choq.ca/episodes/loeuf-ou-la-poule/emission-du-1-avril-2019/"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone-alt"
+
+
 +++

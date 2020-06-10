@@ -36,5 +36,4 @@ slides: ""
 
 Under construction
 
-![avi](./deep_cfc_SGE200.avi)
-{{< video src="deep_cfc_SGE200.avi" controls="yes" >}}
+{{< video src="113 rpm.mp4" controls="yes" >}}

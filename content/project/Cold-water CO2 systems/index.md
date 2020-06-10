@@ -47,7 +47,7 @@ Under construction
 {{< figure src="" title="Mission plan for the leg3b of the Arcticnet 2016 expedition, on the CCGS Amundsen." >}}
 
 ![png](./amundsen.png)
-{{< figure src="" title="CCGS Amundsen icebreaker. Named after the Norwegian explorer who, a century ago, became the first person to cross the North-West passage AND the first person to reach the SOuth Pole." >}}
+{{< figure src="" title="CCGS Amundsen icebreaker. Named after the Norwegian explorer who, a century ago, became the first person to cross the North-West passage AND the first person to reach the South Pole." >}}
 
 ![jpg](./Olivier.jpg)
 {{< figure src="" title="Me before the helicopter took off." >}}
@@ -60,6 +60,12 @@ Under construction
 
 ![png](./shrimp_party.png)
 {{< figure src="" title="Arctic unlonely shrimp party. Females have a tiny black spot just below the tail. They have no heart but have a brain. Males are just transparent and unimportant. Sums it up pretty well." >}}
+
+Plankton are stuff in the water that can't swim ????. So if you don't know how to swim and you fall in the water, you will technically be a plankton ??. Now you know. But when you think about it, we are all a bit plankton in a way.
+.
+Phytoplankton, or plants that can't swim, need sunlight and nutrients to live and be happy ??????. In the Arctic, in the winter, because there are ice sheets covering the surface ocean, the amount of sunlight reaching the water is very small and plankton cannot grow ???. Nutrients stay there, waiting to be eaten. When the ice sheet melts in the spring, there is suddenly plenty of light reaching the surface waters. Plankton get super excited and eat all the food ????????. This lasts a couple of weeks and then they die, not because there is no light because they have eaten all the food ????. Nutrients are replenished slowly, brought by dust and rivers, but by the time enough food is back into the surface ocean, it's winter again, there is no light any more. Then spring comes again, ice melts, plankton eat all the food, they die. It happens every year ??. *What a bunch of dumbasses*, you think. But why don't they go more slowly on eating food when the spring comes, you ask? Don't they ever learn from their mistakes? ?? Well, not really, they have no brain ??. They think short term, and live an intense life, using all their resources at once, without thinking about future generations. Does that remind you of someone?
+.
+We, humans, are in my opinion not as dumb as plankton. Yet we are doing the same mistakes. So I say, don't be a plankton, learn how to swim, and think about future generations ! ??
 
 ![png](./sob.png)
 {{< figure src="" title="Schools-on-board hard at work!" >}}

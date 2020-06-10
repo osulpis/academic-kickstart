@@ -26,7 +26,13 @@ abstract: Seawater absorption of anthropogenic atmospheric carbon dioxide (CO<su
 summary: 
 
 tags:
-- Source Themes
+- Alkalinity
+- Carbon
+- CO2
+- Equilibrium
+- GLODAP
+- SOCAT
+- Seawater
 featured: false
 
 links:

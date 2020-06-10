@@ -35,3 +35,6 @@ slides: ""
 ## project status [**in progress**]
 
 Under construction
+
+![avi](./deep_cfc_SGE200.avi)
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}

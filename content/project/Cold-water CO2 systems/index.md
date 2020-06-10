@@ -57,16 +57,12 @@ Here are a couple of pictures about expeditions I have been involved in, in the 
 ![png](./leg3_2016.png)
 {{< figure src="" title="Mission plan for the leg3b of the Arcticnet 2016 expedition, on the CCGS Amundsen." >}}
 
-There are no dock in the Arctic! The best way to safely reach a ship from land is often via the air. 
-
 In the winter, when seawater is brought back on the deck and in contact with cold air at - 20 or - 30 degrees Celcius, it is only a matter of seconds before it starts freezing. One must act fast!
-
-Phytoplankton, or plants that can't swim, need sunlight and nutrients to live and be happy. In the Arctic, in the winter, because there are ice sheets covering the surface ocean, the amount of sunlight reaching the water is very small and plankton cannot grow. Nutrients stay there, waiting to be eaten. When the ice sheet melts in the spring, there is suddenly plenty of light reaching the surface waters. Plankton get super excited and eat all the food. This lasts a couple of weeks and then they die, not because there is no light because they have eaten all the food. Nutrients are replenished slowly, brought by dust and rivers, but by the time enough food is back into the surface ocean, it's winter again, there is no light any more. Then spring comes again, ice melts, plankton eat all the food, they die. It happens every year. But why don't they go more slowly on eating food when the spring comes, you ask? Don't they ever learn from their mistakes? Well, not really, they have no brain. They think short term, and live an intense life, using all their resources at once, without thinking about future generations. Does that remind you of someone?
 
 ![png](./mashup.png)
 {{< figure src="" title="[**top left**] The rosette is back on board with precious seawater samples. [**top right**] Me before the helicopter took off. [**bottom left**] Schools-on-board hard at work!. [**bottom right**] Arctic unlonely shrimp party. Females have a tiny black spot just below the tail. They have no heart but have a brain. Males are just transparent and unimportant. Sums it up pretty well." >}}
 
-Data
+pH measurements are usually performed on board, at a temperature of 25 degrees Celcius. One one hand, one would want to measure seawater pH fast after sampling, to avoid CO<sub>2</sub> exchanges with the air. On the other hand, it may take several long minutes before a seawater sample warms up and reaches a stable temperature. This, combined with the challenge of sampling seawater in sea ice covered regions, makes pH measurements from cold water regions challenging to obtain. 
 
 ![jpeg](./setup.jpeg)
 {{< figure src="" title="Experimental setup. Spectrophotometer for pH is in the back, titrator for total alkalinity measurement is in the front." >}}
@@ -74,14 +70,14 @@ Data
 ![png](./the_wall.png)
 {{< figure src="" title="The only ice wall that matters and this one too is falling apart." >}}
 
-## Saint Lawrence Estuary
+## **CO<sub>2</sub> system in cold water**
 
-OS paper
+![png](./co2system.png)
+{{< figure src="" title="This CO<sub>2</sub>-H<sub>2</sub>O system maintains the pH of the ocean within a narrow range." >}}
 
-## CO<sub>2</sub> exchanges at the air-sea interface
+![png](./seesaw.png)
+{{< figure src="" title="The K values are actually not constant, but a function of temperature, pressure and salinity." >}}
 
-Blabla
+![png](./co2sys.png)
+{{< figure src="" title="Variables of the CO<sub>2</sub> cannot always be directly measured, and must be computed, relying on accurate equilibrium constants." >}}
 
-## Revised equilibrium constants?
-
-Next: Pitzer?

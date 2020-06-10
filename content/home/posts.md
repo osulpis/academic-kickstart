@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Media and outreach"
+title = "Blog"
 subtitle = "An inventory of media articles, videos, podcasts and public talks about my research."
 
 [content]

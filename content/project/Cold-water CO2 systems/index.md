@@ -1,5 +1,5 @@
 ---
-title: Cold-water CO<sub>2</sub> systems
+title: Cold-water CO2 systems
 summary: Seawater samples from polar regions are challenging to gather. In turn, this lack of data makes CO<sub>2</sub>-system predictions in cold, polar waters poorly constrained and uncertain.
 tags:
 - Carbon
@@ -44,16 +44,16 @@ Under construction
 ## North-West Passage
 
 ![png](./leg3_2016.png)
-{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+{{< figure src="" title="Mission plan for the leg3b of the Arcticnet 2016 expedition, on the CCGS Amundsen." >}}
 
 ![png](./amundsen.png)
-{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+{{< figure src="" title="CCGS Amundsen icebreaker. Named after the Norwegian explorer who, a century ago, became the first person to cross the North-West passage AND the first person to reach the SOuth Pole." >}}
 
 ![jpg](./Olivier.jpg)
-{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+{{< figure src="" title="Me before the helicopter took off." >}}
 
 ![png](./rosette.png)
-{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+{{< figure src="" title="The rosette is back on board with precious seawater samples." >}}
 
 ![jpeg](./setup.jpeg)
 {{< figure src="" title="Experimental setup. Spectrophotometer for pH is in the back, titrator for total alkalinity measurement is in the front." >}}
@@ -65,7 +65,7 @@ Under construction
 {{< figure src="" title="Schools-on-board hard at work!" >}}
 
 ![png](./the_wall.png)
-{{< figure src="" title="The only ice wall that matters and this one too, is falling apart." >}}
+{{< figure src="" title="The only ice wall that matters and this one too is falling apart." >}}
 
 SLE, Arctic
 

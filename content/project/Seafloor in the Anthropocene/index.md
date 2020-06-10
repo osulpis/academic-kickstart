@@ -60,6 +60,8 @@ This research, published in **PNAS**, has received broad media coverage with mor
 - [Gizmodo-Earther](https://earther.gizmodo.com/human-carbon-emissions-are-dissolving-the-ocean-floor-1830178302)
 - [I.F.L. Science](https://www.iflscience.com/environment/our-oceans-are-becoming-so-acidic-it-could-dissolve-the-seabed/)
 
+{{< tweet 1058029563740078080>}}
+
 {{< youtube c_svWhCBG_k>}}
 
 ## **Forecast for the 21st century**: warm, sluggish and muddy

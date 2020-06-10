@@ -41,8 +41,18 @@ slides: ""
 
 Under construction
 
+## North-West Passage
+
 SLE, Arctic
 
+## Saint Lawrence Estuary
+
 OS paper
+
+## CO<sub>2</sub> exchanges at the air-sea interface
+
+Blabla
+
+## Revised equilibrium constants?
 
 Next: Pitzer?

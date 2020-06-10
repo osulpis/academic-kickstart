@@ -43,6 +43,30 @@ Under construction
 
 ## North-West Passage
 
+![png](./leg3_2016.png)
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+
+![png](./amundsen.png)
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+
+![jpg](./Olivier.jpg)
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+
+![png](./rosette.png)
+{{< figure src="" title="Geographic calcite dissolution rate distribution and anthropogenic impact. (A) Preindustrial and (B) current calcite dissolution rate (r) at the SWI, and (C) the difference between preindustrial and current calcite dissolution rate below 300 m (delta r = current r - preindustrial r), that is, the anthropogenic CO2-driven calcite dissolution rate. **source: [PNAS](https://www.pnas.org/content/115/46/11700)**" >}}
+
+![jpeg](./setup.jpeg)
+{{< figure src="" title="Experimental setup. Spectrophotometer for pH is in the back, titrator for total alkalinity measurement is in the front." >}}
+
+![png](./shrimp_party.png)
+{{< figure src="" title="Arctic unlonely shrimp party. Females have a tiny black spot just below the tail. They have no heart but have a brain. Males are just transparent and unimportant. Sums it up pretty well." >}}
+
+![png](./sob.png)
+{{< figure src="" title="Schools-on-board hard at work!" >}}
+
+![png](./the_wall.png)
+{{< figure src="" title="The only ice wall that matters and this one too, is falling apart." >}}
+
 SLE, Arctic
 
 ## Saint Lawrence Estuary

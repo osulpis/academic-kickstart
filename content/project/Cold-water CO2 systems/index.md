@@ -70,7 +70,10 @@ pH measurements are usually performed on board, at a temperature of 25 degrees C
 ![png](./the_wall.png)
 {{< figure src="" title="The only ice wall that matters and this one too is falling apart." >}}
 
+
 ## **CO<sub>2</sub> system in cold water**
+
+Seawater absorption of anthropogenic atmospheric carbon dioxide (CO<sub>2</sub>) has led to a range of changes in carbonate chemistry, collectively referred to as ocean acidification. Stoichiometric dissociation constants (the K values) used to convert measured carbonate system variables (pH, pCO<sub>2</sub>, dissolved inorganic carbon, total alkalinity) into globally comparable parameters are crucial for accurately quantifying these changes. The temperature and salinity coefficients of these constants have generally been experimentally derived under controlled laboratory conditions. In a study under review in [Ocean Sciences](https://www.ocean-sci-discuss.net/os-2020-19/), we use field measurements of carbonate system variables taken from the Global Ocean Data Analysis Project version 2 and the Surface Ocean CO<sub>2</sub> Atlas databases to evaluate the temperature dependence of the carbonic acid stoichiometric dissociation constants. By applying a [novel iterative procedure](https://zenodo.org/record/3725889), we show that the set of equilibrium constants currently preferred by the ocean acidification are not consistent with measured CO<sub>2</sub> system parameters at low temperatures, below about 8 degrees Celcius. This is important, since most of the ocean seawater has a temperature lower than this value.  
 
 ![png](./co2system.png)
 {{< figure src="" title="This CO<sub>2</sub>-H<sub>2</sub>O system maintains the pH of the ocean within a narrow range." >}}
@@ -78,6 +81,9 @@ pH measurements are usually performed on board, at a temperature of 25 degrees C
 ![png](./seesaw.png)
 {{< figure src="" title="The K values are actually not constant, but a function of temperature, pressure and salinity." >}}
 
+Given past difficulties to obtain direct pCO<sub>2</sub> measurements from ships in the Southern Ocean, a number of autonomous floats have been deployed in the recent years. Since these floats estimate pCO<sub>2</sub> from a pH measurement and a calculated total alkalinity (TA), our knowledge of surface pCO<sub>2</sub> in the Southern Ocean strongly relies on the accuracy of dissociation constants in these cold waters. 
+
 ![png](./co2sys.png)
 {{< figure src="" title="Variables of the CO<sub>2</sub> cannot always be directly measured, and must be computed, relying on accurate equilibrium constants." >}}
 
+Results from this research indicates the need for further measurements to reduce the uncertainty in the carbonic acid stoichiometric dissociation constants. The ocean CO<sub>2</sub> sink is immensely important, and currently estimated to remove ~25% of anthropogenic CO<sub>2</sub> emissions. If the CO<sub>2</sub> uptake by the Southern Ocean, where low temperatures are common, is much smaller than previously estimated, there must be missing sinks elsewhere in the Earth System, be it in the oceanic or terrestrial realm. This highlights the need for a better understanding of the dynamics of the ocean carbon sink, including its regional and temporal variability. 

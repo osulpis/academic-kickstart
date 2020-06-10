@@ -35,20 +35,28 @@ slides: ""
 ## Project status [**in progress**]
 
 **Publications**
-- [x] Marine Chemistry: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
-- [x] Limnology and Oceanography-Methods: [Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century](https://osulpis.xyz/publication/journal-article/gbc2019/)
-- [x] Geochimica et Cosmochimica Acta: Controls
-- [ ] Geochimica et Cosmochimica Acta: 
+- [x] Marine Chemistry: [Calcite dissolution kinetics at the sediment-water interface in natural seawater](https://osulpis.xyz/publication/journal-article/mc2017/)
+- [x] Limnology and Oceanography-Methods: [Controlling the diffusive boundary layer thickness above the sediment water interface in a thermostated rotating disk reactor](https://osulpis.xyz/publication/journal-article/lom2019/)
+- [x] Geochimica et Cosmochimica Acta: [Control of CaCO<sub>3</sub> dissolution at the deep seafloor and its consequences](https://osulpis.xyz/publication/journal-article/gca2020/)
+- [ ] In preparation for resubmission: Impact of environmental conditions and sediment properties on the dissolution kinetics of natural and synthetic calcites in the laboratory
+
+///////////////
 
 ## **Phase 1**: High-energy environments [McGill University]
 
+In many situations, boundary conditions are critical in defining the hydrodynamics of natural environments. In limnology and oceanography, the bottom (or benthic) boundary layer is the part of the water column that is directly affected by the drag of currents on the sediment bed; its thickness is typically on the order of meters to tens of meters. Within this bottom boundary layer, current velocities decrease toward the sediment bed, until ultimately reaching zero velocity relative to the solid boundary at the sediment–water interface of low-permeability sediments. Just above the sediment-water interface, in a thin film of water with a thickness typically on the order of a few tens of microns (e.g., in rivers or coastal areas) to millimeters (e.g., in lakes or abyssal environments), molecular diffusion becomes the dominant mode of solute transport, rather than much faster turbulent diffusion, which dominates solute transport further away from the interface. This layer is termed the diffusive boundary layer (**DBL**). The thickness of this DBL depends on the nature and roughness of the substrate, as well as on the current speed of the overlying water. Slow currents generate thick DBLs, whereas fast currents cause the DBL to thin, as predicted by theory and confirmed by observations.
+
+Reactions under the sediment-side controlled regime, i.e., occuring slowy and thus not strongly limited by diffusion through the DBL, include the dissolution of biogenic silica at the seafloor or the release of soluble reactive phosphate from lacustrine sediments. Examples of water-side transport-controlled reaction are the dissolution of calcium carbonate at the deep-seafloor and the accretion of manganese at the surface of deep-sea nodules. Commonly, the diffusion through the DBL of most solutes is ruled by a combination of both regimes, termed mixed-control, e.g., dissolved oxygen or radon, that display concentration gradients extending on both sides of the sediment-water interface.
+
+In high-energy environments, such as carbonate platforms or coral reefs, bottom current are fast, turbulence is common, and the DBL is very thin or inexistant. To simulate chemical exchanges across the sediment-water interface in such environments, a flume or a stirred reactor is adapted. Here is an example of experimental setup reproducing high-energy benthic environments:
+
 ![png](./diagram1.png)
-{{< figure src="" title="bla" >}}
+{{< figure src="" title="Schematic representation of an experimental design involving a stirred reactor. **[source: [Marine Chemistry](https://www.sciencedirect.com/science/article/pii/S0304420316301918?via%3Dihub)**" >}}
 
 ![png](./stirredreactors.png)
-{{< figure src="" title="bla" >}}
+{{< figure src="" title="A series of stirred reactors linked to a thermostated bath, to control the seawater temperature. Each reactor is overlaid by a stirrer, which can be set up to various stirring rates, thus reproducing environments of various energies." >}}
 
-{{< video src="bluedye.mp4" controls="yes" >}}
+{{< video src="bluedye.mp4" controls="yes" title="bla">}}
 
 ## **Phase 2**: Deep-sea-like hydrodynamic conditions [McGill University]
 

@@ -35,7 +35,7 @@ url_video: ""
 slides: ""
 ---
 
-## Status: [**in progress**]
+## Project status: [**on hold**]
 
 **Publications**
 - [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
@@ -79,7 +79,7 @@ This research was published in [Global Biogeochemical Cycles](https://agupubs.on
 
 ## **What's next?**
 
-The good news is that there are far more calcium carbonate at the seafloor than there are carbon dioxide under the form of fossil fuel that we can possibly burn. The bad news is that there is there is not a single place on Earth that cannot feel human activity.
+The good news is that there are far more calcium carbonate at the seafloor than there are carbon dioxide under the form of fossil fuel that we can possibly burn. The bad news is that there is not a single place on Earth that cannot feel human activity.
 
 Here are the research questions I am hoping to see an answer to:
 - What is the impact of more organic matter to the seafloor on calcium carbonate in surface sediments?

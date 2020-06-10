@@ -34,7 +34,7 @@ url_video: ""
 slides: ""
 ---
 
-## Status: [**funded**]
+## Project status: [**funded**]
 
 ## **Why**?
 

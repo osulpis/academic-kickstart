@@ -37,4 +37,12 @@ url_video: ""
 slides: ""
 ---
 
+## Project status [**done**]
+
 Under construction
+
+SLE, Arctic
+
+OS paper
+
+Next: Pitzer?

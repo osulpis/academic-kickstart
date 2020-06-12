@@ -38,4 +38,7 @@ slides: ""
 
 ## Project status: [**in preparation**]
 
+
+{{< video src="G_ruber_mesh.mp4" controls="yes">}}
+
 Under construction

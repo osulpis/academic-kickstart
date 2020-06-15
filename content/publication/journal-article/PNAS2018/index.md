@@ -30,7 +30,14 @@ abstract: Oceanic uptake of anthropogenic CO<sub>2</sub> leads to decreased pH, 
 summary: The geological record contains numerous examples of greenhouse periods and ocean acidification episodes, where the spreading of corrosive (CO<sub>2</sub> enriched) bottom waters enhances the dissolution of CaCO<sub>3</sub> minerals delivered to the seafloor or contained within deep sea sediments. The dissolution of sedimentary CaCO<sub>3</sub> neutralizes excess CO<sub>2</sub>, thus preventing runaway acidification, and acts as a negative feedback mechanism in regulating atmospheric CO<sub>2</sub> levels over timescales of centuries to millennia. We report here the first signs of CaCO<sub>3</sub> dissolution at the seafloor caused by man made CO<sub>2</sub>. This dissolution is already occurring at various locations in the deep ocean, particularly in the northern Atlantic and near the Southern Ocean, where the bottom waters are young and rich in anthropogenic CO<sub>2</sub>.
 
 tags:
-- Source Themes
+- Ocean acidification
+- CCD
+- Seafloor
+- CaCO3
+- Calcite
+- Sediments
+- Dissolution
+- Diffusive boundary layer
 featured: true
 
 # links:

@@ -26,7 +26,11 @@ abstract: Prediction of the neutralization of anthropogenic CO<sub>2</sub> in th
 summary: On time scales of tens to millions of years, seawater acidity is primarily controlled by biogenic calcite (CaCO<sub>3</sub>) dissolution on the seafloor. Our quantitative understanding of future oceanic pH and carbonate system chemistry requires knowledge of what controls this dissolution. The authors have reconciled these divergent experimental results through an equation for the mass balance of the carbonate ion at the sediment-water interface (SWI), which equates the rate of production of that ion via dissolution and its diffusion in sediment porewaters to the transport across the diffusive sublayer (DBL) at the SWI.
 
 tags:
-- Source Themes
+- CCD
+- Diffusive boundary layer
+- Sediments
+- Calcite
+- Dissolution
 featured: false
 
 # links:

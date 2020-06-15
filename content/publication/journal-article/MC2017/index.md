@@ -27,7 +27,12 @@ abstract: The absorption, or uptake, of anthropogenic CO<sub>2</sub> by the ocea
 summary: 
 
 tags:
-- Source Themes
+- pH
+- Alkalinity
+- Calcite
+- Dissolution
+- Reactor
+- Diffusive boundary layer
 featured: false
 
 # links:

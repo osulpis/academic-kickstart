@@ -31,7 +31,17 @@ abstract: Results from a range of Earth System and climate models of various res
 summary: Model projections for the 21st century, under a business as usual scenario, reveal that seawater will become more corrosive to this mineral, but calcite dissolution at the seafloor will only increase slightly due to reductions in bottom-current speeds and in the amount of calcite particles delivered to the seafloor over that period. These results indicate that the neutralization of human-made CO<sub>2</sub> by calcite dissolution at the seafloor may take longer than previously anticipated.
 
 tags:
-- Source Themes
+- Model
+- CMIP5
+- Anthropogenic
+- CaCO3
+- Calcite
+- Dissolution
+- Sediments
+- Seafloor
+- Future
+- Ocean Acidification
+
 featured: false
 
 # links:

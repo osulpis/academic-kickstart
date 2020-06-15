@@ -27,6 +27,7 @@ summary:
 
 tags:
 - Alkalinity
+- pH
 - Carbon
 - CO2
 - Equilibrium

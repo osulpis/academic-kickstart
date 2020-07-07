@@ -18,8 +18,7 @@ organizations:
   url: "https://www.uu.nl/en/research/department-of-earth-sciences"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Olivier is currently working as a postdoctoral researcher at Utrecht University and funded by the Netherlands Earth System Science Center, a virtual research center that brings scientists with a background in physics, earth sciences, ecology and mathematics together, to better understand the processes behind climate change and to improve future climate projections and predictions. He from McGill University in 2019 with a Ph.D. degree in Aqueous Geochemistry.
-
+bio: Olivier is currently working as a postdoctoral researcher at Utrecht University and funded by the Netherlands Earth System Science Center, a virtual research center that brings scientists together, to better understand the processes behind climate change and to improve future climate projections and predictions.
 
 interests:
 - Ocean acidification

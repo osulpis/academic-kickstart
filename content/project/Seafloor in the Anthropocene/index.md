@@ -58,10 +58,7 @@ This research, published in **PNAS**, has received broad media coverage with mor
 - [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-6334309/The-ocean-floor-DISSOLVING-rapidly-study-warns-human-activity-blame.html)
 - [Gizmodo-Earther](https://earther.gizmodo.com/human-carbon-emissions-are-dissolving-the-ocean-floor-1830178302)
 - [I.F.L. Science](https://www.iflscience.com/environment/our-oceans-are-becoming-so-acidic-it-could-dissolve-the-seabed/)
-
 - [Vice](https://www.vice.com/en_us/article/d3qaek/the-seafloor-is-dissolving-because-climate-change)
-{{< tweet 1058029563740078080>}}
-
 - Seeker:
 {{< youtube c_svWhCBG_k>}}
 

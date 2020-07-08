@@ -19,7 +19,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Iceberg offshore Baffin Island. Photo by C. Aubry
+  caption: Whitings collected in the Bahamas by Prof. Alfonso Mucci. Photo by O. Sulpis
   focal_point: Smart
 
 links:
@@ -36,9 +36,19 @@ url_video: ""
 slides: ""
 ---
 
-## Project status: [**in preparation**]
+## Project status: [**in progress**]
 
+
+## **Objective 1**: Stoichiometric saturation in the lab [McGill University]
+
+In construction.
+
+
+## **Objective 2**: Nanoscale 3-D simulations [Utrecht University]
+
+In construction.
 
 {{< video src="G_ruber_mesh.mp4" controls="yes">}}
+{{< figure src="" title="Visualization of a 3-D mesh for Globigerinoides ruber in the COMSOL software." >}}
 
-Under construction
+More to come!

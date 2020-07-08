@@ -57,6 +57,7 @@ In high-energy environments, such as carbonate platforms or coral reefs, bottom 
 {{< figure src="" title="A series of stirred reactors linked to a thermostated bath, to control the seawater temperature. Each reactor is overlaid by a stirrer, which can be set up to various stirring rates, thus reproducing environments of various energies." >}}
 
 {{< video src="bluedye.mp4" controls="yes">}}
+{{< figure src="" title="Visualization of the flow in a rotating disk reactor (left) and in a stirred reactor (right) using a blue dye mixed with seawater." >}}
 
 ## **Phase 2**: Deep-sea-like hydrodynamic conditions [McGill University]
 

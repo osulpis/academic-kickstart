@@ -20,7 +20,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: RADI in Julia language
   focal_point: Smart
 
 links:
@@ -39,4 +39,17 @@ slides: ""
 
 ## Project status: [**in progress**]
 
-Under construction
+
+## **Step 1**: The RADI model (Reaction Advection Diffusion Irrigation)
+
+In construction
+
+## **Step 2**: Diffusive boundary layer and deep porewater profiles
+
+In construction
+
+## **Step 3**: Seasons in the deep sea
+
+In construction
+
+More to come!

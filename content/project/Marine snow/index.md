@@ -40,8 +40,15 @@ slides: ""
 
 ## Project status [**in progress**]
 
-Under construction
 
-TA star
+## **Step 1**: Reconstructing sinking particles profiles
 
-Comsol 3D foram 
+In construction
+
+
+## **Step 3**: Melting marine snow
+
+In construction
+
+More to come!
+

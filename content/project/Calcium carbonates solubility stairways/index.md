@@ -39,12 +39,12 @@ slides: ""
 ## Project status: [**in progress**]
 
 
-## **Objective 1**: Stoichiometric saturation in the lab [McGill University]
+## **Step 1**: Stoichiometric saturation in the lab [McGill University]
 
 In construction.
 
 
-## **Objective 2**: Nanoscale 3-D simulations [Utrecht University]
+## **Step 2**: Nanoscale 3-D simulations [Utrecht University]
 
 In construction.
 
@@ -52,3 +52,7 @@ In construction.
 {{< figure src="" title="Visualization of a 3-D mesh for Globigerinoides ruber in the COMSOL software." >}}
 
 More to come!
+
+## **Step 3**: Where is the aragonite compensation depth? [Utrecht University]
+
+In construction.

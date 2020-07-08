@@ -51,8 +51,8 @@ In construction.
 {{< video src="G_ruber_mesh.mp4" controls="yes">}}
 {{< figure src="" title="Visualization of a 3-D mesh for Globigerinoides ruber in the COMSOL software." >}}
 
-More to come!
-
 ## **Step 3**: Where is the aragonite compensation depth? [Utrecht University]
 
 In construction.
+
+More to come!

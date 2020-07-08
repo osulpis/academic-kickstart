@@ -46,7 +46,7 @@ slides: ""
 In construction
 
 
-## **Step 3**: Melting marine snow
+## **Step 2**: Melting marine snow
 
 In construction
 

@@ -37,9 +37,9 @@ slides: ""
 Much of the deep sea has never been explored close-up by humans. Some submarines have plumbed its depths, but reaching the ocean bottom is a complicated and expensive journey, challenging because the seabed lies under more than three miles of water, which exerts huge amounts of pressure. Rather than conducting analyses in the deep sea, it is possible to reproduce deep sea like, benthic environments directly in the laboratory.
 
 **Publications**
-- [x] Marine Chemistry: [Calcite dissolution kinetics at the sediment-water interface in natural seawater](https://osulpis.xyz/publication/journal-article/mc2017/)
-- [x] Limnology and Oceanography-Methods: [Controlling the diffusive boundary layer thickness above the sediment water interface in a thermostated rotating disk reactor](https://osulpis.xyz/publication/journal-article/lom2019/)
-- [x] Geochimica et Cosmochimica Acta: [Control of CaCO<sub>3</sub> dissolution at the deep seafloor and its consequences](https://osulpis.xyz/publication/journal-article/gca2020/)
+- [x] Marine Chemistry: [Calcite dissolution kinetics at the sediment-water interface in natural seawater](https://deep-c.xyz/publication/journal-article/mc2017/)
+- [x] Limnology and Oceanography-Methods: [Controlling the diffusive boundary layer thickness above the sediment water interface in a thermostated rotating disk reactor](https://deep-c.xyz/publication/journal-article/lom2019/)
+- [x] Geochimica et Cosmochimica Acta: [Control of CaCO<sub>3</sub> dissolution at the deep seafloor and its consequences](https://deep-c.xyz/publication/journal-article/gca2020/)
 - [ ] In preparation for resubmission: Impact of environmental conditions and sediment properties on the dissolution kinetics of natural and synthetic calcites in the laboratory
 
 ## **Phase 1**: High-energy environments [McGill University]
@@ -80,7 +80,7 @@ Here are some of the analytical developments that I am hoping to see be implemen
 - To obtain measurements of the porewater composition in the rotating disk reactor, while avoiding disrupting the DBL, sensors (e.g., microelectrodes) could be inserted from below the sediment disk, instead of penetrating the sediment on the water side, or inserted in the wall of the reactor.
 - Follow the evolution of chemical exchanges with continuous flow analyses.
 
-[Get in touch](https://osulpis.xyz/#contact) if you are interested or want to get involved.
+[Get in touch](https://deep-c.xyz/#contact) if you are interested or want to get involved.
 
 ## **Phase 3**: Effects of organic matter and mineralogy on carbonate mineral dissolution [NIOZ]
 

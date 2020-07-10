@@ -38,8 +38,8 @@ slides: ""
 ## Project status: [**on hold**]
 
 **Publications**
-- [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://osulpis.xyz/publication/journal-article/pnas2018/)
-- [x] Global Biogeochemical Cycles: [Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century](https://osulpis.xyz/publication/journal-article/gbc2019/)
+- [x] PNAS: [Current CaCO<sub>3</sub> dissolution at the seafloor caused by anthropogenic CO<sub>2</sub>](https://deep-c.xyz/publication/journal-article/pnas2018/)
+- [x] Global Biogeochemical Cycles: [Reduced CaCO<sub>3</sub> Flux to the Seafloor and Weaker Bottom Current Speeds Curtail Benthic CaCO<sub>3</sub> Dissolution Over the 21st Century](https://deep-c.xyz/publication/journal-article/gbc2019/)
 
 ## **Carbonating the ocean**
 
@@ -88,7 +88,7 @@ Here are the research questions I am hoping to see an answer to:
 - To what extent the alkalinity signal from seafloor dissolution can be felt in the water column?
 - How will burrowing organisms evolve in the future and how will this affect early diagenesis?
 
-[Get in touch](https://osulpis.xyz/#contact) if you are interested in it too. 
+[Get in touch](https://deep-c.xyz/#contact) if you are interested in it too. 
 
 
 

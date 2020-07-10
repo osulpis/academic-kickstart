@@ -35,7 +35,7 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "We're going at sea!"
+  title = "We're going to sea!"
   content = "Funding received from a NWO-XS Grant to sample and explore deep-sea sediments and microbial fauna in an upcoming cruise."
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Read about the project"
-  cta_url = "https://osulpis.xyz/project/deep-sea-sediment-microbial-fauna/"
+  cta_url = "https://deep-c.xyz/project/deep-sea-sediment-microbial-fauna/"
   cta_icon_pack = "fas"
   cta_icon = "ship"
 
